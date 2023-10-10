@@ -45,21 +45,18 @@ There is a lot of confusion with the original instruction guide linked above, so
 
 For the following commands to work, you must install:
 
-* <a aria-label="Homebrew" href="https://brew.sh">
-  <p style="width: 80px; height: 20px; background-color: brown; display: flex; justify-content: center; align-items: center; color: white; font-weight: bold;">🍺 Homebrew</p>
-</a>
+* <a aria-label="Homebrew" href="https://brew.sh">`🍺 Homebrew`</a>
 
 <br />
 
 ## Getting Started
 
-This project requires Homebrew
-
-Follow the install instructions before continuing
-
 <br />
 
-### Install QEMU & Friends
+Paste the following commands into your `Terminal`, one-by-one.
+
+<br />
+<b>Install QEMU & Friends</b>
 
 ```sh
 brew install qemu && brew install ninja && brew install make &&
@@ -67,10 +64,7 @@ brew install pkg-config && brew install meson && brew install sdl2
 ```
 
 <br />
-<br />
-<br />
-
-### Build QEMU
+<b>Build QEMU</b>
 
 ```sh
 mkdir iPod && cd iPod && git clone https://github.com/devos50/qemu && cd qemu && git checkout ipod_touch_1g
@@ -79,10 +73,7 @@ mkdir iPod && cd iPod && git clone https://github.com/devos50/qemu && cd qemu &&
 ```
 
 <br />
-<br />
-<br />
-
-### Download iPod Files
+<b>Download iPod Files</b>
 
 ```sh
 cd ../.. && mkdir boot && cd boot
@@ -94,18 +85,13 @@ cd ../.. && mkdir boot && cd boot
 ```
 
 <br />
-<br />
-<br />
-
-### Run QEMU
+<b>Run QEMU</b>
 
 ```sh
 cd .. && echo "cd qemu/build && ./arm-softmmu/qemu-system-arm -M iPod Touch,bootrom=../../boot/bootrom_s5l8900,
 iboot=../../boot/iboot_204_n45ap.bin,nand=../../boot/nand -serial mon:stdio -cpu max -m 1G -d unimp -pflash ../../boot/nor_n45ap.bin" > run.sh && sh run.sh
 ```
 
-<br />
-<br />
 <br />
 
 ### FINAL NOTES
