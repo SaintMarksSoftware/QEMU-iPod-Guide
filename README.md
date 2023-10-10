@@ -94,9 +94,16 @@ iboot=../../boot/iboot_204_n45ap.bin,nand=../../boot/nand -serial mon:stdio -cpu
 
 <br />
 
-### FINAL NOTES
+## FINAL NOTES
 
-To run the iPod simple type in the terminal from the ./iPod folder
+<br />
+
+> :information_source:
+> You **MUST** be in the **`./iPod`** directory for this to work.
+
+<br />
+
+Now, if you would like to simple <b>re-run your iPod</b>, anytime you please, make sure you type the following into your terminal:
 
 ```sh
 sh run.sh
