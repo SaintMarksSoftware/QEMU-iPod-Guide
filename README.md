@@ -26,7 +26,7 @@
 
 
 
-## About This Guide
+## ❗ About This Guide
 
 <p align="center">
   <img src="images/iPod.png" alt="iPod">
@@ -49,7 +49,7 @@ For the following commands to work, you must install:
 
 <br />
 
-## Getting Started
+## 🚀 Getting Started
 
 <br />
 
@@ -94,7 +94,7 @@ iboot=../../boot/iboot_204_n45ap.bin,nand=../../boot/nand -serial mon:stdio -cpu
 
 <br />
 
-## FINAL NOTES
+## 🏁 Final Notes 
 
 <br />
 
