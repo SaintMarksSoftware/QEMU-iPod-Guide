@@ -41,7 +41,6 @@ There is a lot of confusion with the original instruction guide linked above, so
 
 <br />
 <br />
-<br />
 
 ### Built With
 
@@ -56,7 +55,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-
+<br />
+<br />
+<br />
 
 ## Getting Started
 
@@ -64,7 +65,9 @@ This project requires Homebrew
 
 Follow the install instructions before continuing
 
-
+<br />
+<br />
+<br />
 
 ### Install QEMU & Friends
 
@@ -73,7 +76,9 @@ brew install qemu && brew install ninja && brew install make &&
 brew install pkg-config && brew install meson && brew install sdl2
 ```
 
-
+<br />
+<br />
+<br />
 
 ### Build QEMU
 
@@ -83,7 +88,9 @@ mkdir iPod && cd iPod && git clone https://github.com/devos50/qemu && cd qemu &&
 --disable-pie --disable-slirp --extra-cflags=-I/opt/homebrew/opt/openssl@3/include --extra-ldflags='-L/opt/homebrew/opt/openssl@3/lib -lcrypto' && make -j8
 ```
 
-
+<br />
+<br />
+<br />
 
 ### Download iPod Files
 
@@ -96,7 +103,9 @@ cd ../.. && mkdir boot && cd boot
 && unzip nand_n45ap.zip && rm nand_n45ap.zip && rm -rf __MACOSX
 ```
 
-
+<br />
+<br />
+<br />
 
 ### Run QEMU
 
@@ -105,7 +114,9 @@ cd .. && echo "cd qemu/build && ./arm-softmmu/qemu-system-arm -M iPod Touch,boot
 iboot=../../boot/iboot_204_n45ap.bin,nand=../../boot/nand -serial mon:stdio -cpu max -m 1G -d unimp -pflash ../../boot/nor_n45ap.bin" > run.sh && sh run.sh
 ```
 
-
+<br />
+<br />
+<br />
 
 ### FINAL NOTES
 
