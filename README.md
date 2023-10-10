@@ -7,7 +7,9 @@
   <h3 align="center">QEMU iPod Guide</h3>
 
   <p align="center">
-    This is a simple &amp; quick guide on how to set up devos50's QEMU iPod Emulator. For Apple Silicon Macs!
+    This is a simple and quick guide on how to set up devos50's QEMU iPod Emulator.
+    <br />
+    For Apple Silicon Macs!
     <br />
     <a href="https://github.com/devos50/qemu"><strong>View Repository »</strong></a>
     <br />
@@ -28,7 +30,7 @@
   <img src="images/iPod.png" alt="iPod Screenshot">
 </p>
 
-There is a lot of confusion with the original guide linked above, so this guide will solve all the confusion :smile:
+There is a lot of confusion with the original instruction guide linked above, so this guide will solve all the confusion :smile:
 
 <b>Here's why:</b>
 * Short and easy to follow steps
