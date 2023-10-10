@@ -41,21 +41,14 @@ There is a lot of confusion with the original instruction guide linked above, so
 
 <br />
 
-### Built With
+### Dependencies
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+For the following commands to work, you must install:
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+  <a aria-label="Homebrew" href="https://brew.sh">
+    <img alt="Homebrew Page" src="">
+  </a>
 
-<br />
-<br />
 <br />
 
 ## Getting Started
@@ -64,8 +57,6 @@ This project requires Homebrew
 
 Follow the install instructions before continuing
 
-<br />
-<br />
 <br />
 
 ### Install QEMU & Friends
