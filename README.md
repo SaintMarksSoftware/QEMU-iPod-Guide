@@ -27,7 +27,7 @@
 ## About This Guide
 
 <p align="center">
-  <img src="images/iPod.png" alt="iPod Screenshot">
+  <img src="images/iPod.png" alt="iPod">
 </p>
 
 There is a lot of confusion with the original instruction guide linked above, so this guide will solve all the confusion :smile:
