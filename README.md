@@ -1,7 +1,26 @@
-# QEMU-iPod-Guide
-This is a simple &amp; quick guide on how to set up [devos50](https://github.com/devos50)'s [QEMU iPod Emulator](https://github.com/devos50/qemu). For Apple Silicon Macs.
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-This is a simplified version of the [instructions written here](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/).
+  <h3 align="center">QEMU iPod Guide</h3>
+
+  <p align="center">
+    This is a simple &amp; quick guide on how to set up devos50's QEMU iPod Emulator. For Apple Silicon Macs!
+    <br />
+    <a href="https://github.com/devos50/qemu"><strong>View Repository »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/devos50">View Author</a>
+    ·
+    <a href="https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2">View Instructions</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/blob/master/README.md">Credits</a>
+    <br />
+    <br />
+  </p>
+</div>
 
 ## Getting Started
 
