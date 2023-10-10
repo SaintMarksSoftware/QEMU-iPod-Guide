@@ -22,6 +22,34 @@
   </p>
 </div>
 
+## About This Guide
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+There is a lot of confusion with the original guide linked above, so this guide will solve all the confusion :smile:
+
+<b>Here's why:</b>
+* Short and easy to follow steps
+* Saves time and reduces errors
+* Simple copy and pasting
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Getting Started
 
 This project requires Homebrew
