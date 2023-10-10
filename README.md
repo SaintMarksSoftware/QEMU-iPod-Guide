@@ -40,7 +40,6 @@ There is a lot of confusion with the original instruction guide linked above, so
 * Simple copy and pasting
 
 <br />
-<br />
 
 ### Built With
 
