@@ -24,7 +24,9 @@
 
 ## About This Guide
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+  <img src="images/iPod.png" alt="iPod Screenshot">
+</p>
 
 There is a lot of confusion with the original guide linked above, so this guide will solve all the confusion :smile:
 
