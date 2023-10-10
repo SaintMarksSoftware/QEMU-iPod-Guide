@@ -46,10 +46,9 @@ There is a lot of confusion with the original instruction guide linked above, so
 For the following commands to work, you must install:
 
 * <a aria-label="Homebrew" href="https://brew.sh">
-  <p style="width: 80px; height: 20px; background-color: brown; display: flex;justify-content: center; align-items: center; color: white; font-weight: bold;">🍺 Homebrew</p>
+  <p style="width: 80px; height: 20px; background-color: brown; display: flex; justify-content: center; align-items: center; color: white; font-weight: bold;">🍺 Homebrew</p>
 </a>
 
-<br />
 <br />
 
 ## Getting Started
