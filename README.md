@@ -11,7 +11,7 @@ https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/
 
 
 2: Install QEMU & Friends
-
+<kbd contentEditable="true">Copy and paste this text</kbd>
 brew install qemu && brew install ninja && brew install make && brew install pkg-config && brew install meson && brew install sdl2
 
 
