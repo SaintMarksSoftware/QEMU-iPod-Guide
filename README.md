@@ -46,6 +46,7 @@ There is a lot of confusion with the original instruction guide linked above, so
 For the following commands to work, you must install:
 
 * <a aria-label="Homebrew" href="https://brew.sh">`🍺 Homebrew`</a>
+* <a aria-label="Homebrew" href="https://brew.sh">`🔨 Xcode`</a>
 
 <br />
 
