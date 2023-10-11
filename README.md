@@ -60,7 +60,7 @@ Paste the following commands into your `Terminal`, one-by-one.
 
 ```sh
 brew install qemu && brew install ninja && brew install make &&
-brew install pkg-config && brew install meson && brew install sdl2
+brew install pkg-config && brew install meson && brew install sdl2 && brew install gcc
 ```
 
 <br />
