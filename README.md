@@ -78,12 +78,7 @@ mkdir build && cd build && ../configure --enable-sdl --disable-cocoa --target-li
 <b>Download iPod Files</b>
 
 ```sh
-cd ../.. && mkdir boot && cd boot
-&& curl -LJO https://github.com/devos50/qemu-ios/releases/download/n45ap_v1/bootrom_s5l8900
-&& curl -LJO https://github.com/devos50/qemu-ios/releases/download/n45ap_v1/iboot_204_n45ap.bin
-&& curl -LJO https://github.com/devos50/qemu-ios/releases/download/n45ap_v1/nand_n45ap.zip
-&& curl -LJO https://github.com/devos50/qemu-ios/releases/download/n45ap_v1/nor_n45ap.bin
-&& unzip nand_n45ap.zip && rm nand_n45ap.zip && rm -rf __MACOSX
+cd ../.. && mkdir boot && cd boot && curl -LJO https://github.com/devos50/qemu-ios/releases/download/n45ap_v1/bootrom_s5l8900 && curl -LJO https://github.com/devos50/qemu-ios/releases/download/n45ap_v1/iboot_204_n45ap.bin && curl -LJO https://github.com/devos50/qemu-ios/releases/download/n45ap_v1/nand_n45ap.zip && curl -LJO https://github.com/devos50/qemu-ios/releases/download/n45ap_v1/nor_n45ap.bin && unzip nand_n45ap.zip && rm nand_n45ap.zip && rm -rf __MACOSX
 ```
 
 <br />
