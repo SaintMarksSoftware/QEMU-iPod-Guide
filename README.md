@@ -85,7 +85,7 @@ cd ../.. && mkdir boot && cd boot && curl -LJO https://github.com/devos50/qemu-i
 <b>Run QEMU</b>
 
 ```sh
-cd .. && echo "cd qemu/build && ./arm-softmmu/qemu-system-arm -M iPod Touch,bootrom=../../boot/bootrom_s5l8900, iboot=../../boot/iboot_204_n45ap.bin,nand=../../boot/nand -serial mon:stdio -cpu max -m 1G -d unimp -pflash ../../boot/nor_n45ap.bin" > run.sh && sh run.sh
+cd .. && echo "cd qemu/build && ./arm-softmmu/qemu-system-arm -M iPod Touch,bootrom=../../boot/bootrom_s5l8900,iboot=../../boot/iboot_204_n45ap.bin,nand=../../boot/nand -serial mon:stdio -cpu max -m 1G -d unimp -pflash ../../boot/nor_n45ap.bin" > run.sh && sh run.sh
 ```
 
 <br />
